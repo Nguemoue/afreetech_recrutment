@@ -1,0 +1,13 @@
+{
+    "name": "afreetech/contact-form",
+    "description": "Formulaire de contact avec architecture MVC",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
